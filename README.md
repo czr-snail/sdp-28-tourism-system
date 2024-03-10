@@ -1,2 +1,2 @@
 # sdp-28-tourism-system
-It's all about the 
+A Tourism Management System is a software platform designed to streamline and automate various aspects of the tourism industry, including bookings, reservations, itinerary planning, customer management, and resource allocation. It aims to enhance efficiency, improve customer experience, and optimize resource utilization for tourism businesses such as hotels, travel agencies, and tour operators.
